@@ -1,12 +1,4 @@
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;Gross domestic product at market prices;Final consumption expenditure of general government
+Time;Gross domestic product at market prices;Final consumption expenditure of general government
 2013;104.909;103.626
 2014;107.058;106.413
 2015;109.046;108.965
@@ -17,6 +9,5 @@
 2020;113.779;114.965
 2021;118.214;120.734
 2022;122.089;120.842
-;;
-;;
-;;
+
+
