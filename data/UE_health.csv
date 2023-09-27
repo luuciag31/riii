@@ -1,4 +1,4 @@
-years;life_expectancy;gov_expenditure;randd_expenditure_%GDP;gdp;randd_expenditure
+years;life_expectancy;gov_expenditure;rd_expenditure_perc;gdp;rd_expenditure
 2012;61.3;2418894.8;2.08;11396052.5;23703789.2
 2013;61;2456017.5;2.1;11516038.9;24183681.69
 2014;61.3;2496431.8;2.11;11782469.9;24861011.49
